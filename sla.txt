@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 bla
 estevão ferreira
-brincadeira
+brincadeirabrincadeira
+=======
+>>>>>>> parent of c535f0a (Aprimoramento Primeiro Arquivo)
